@@ -17,7 +17,7 @@ Inicialmente, este projeto realizado, originou-se da playlist do Vinicius Dacal,
 Este projeto, apresenta algumas modificações em comparação ao original que é proposto no tutorial. Uma diferença a ser citada, é o uso de Lottie, uma ferramenta em ofertar animações para a aplicação.
 
 ## Screenshots
-![Gatry Clone Page](../img/gatry_clone.png)
+![Gatry Clone Page](./img/gatry_clone.png)
 
 ## Tecnologias
 * React JS
