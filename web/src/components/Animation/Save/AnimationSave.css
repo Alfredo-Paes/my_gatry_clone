@@ -1,0 +1,12 @@
+.promotion-list__save-animation {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.promotion-list__save-text {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #2c3e50;
+}
+

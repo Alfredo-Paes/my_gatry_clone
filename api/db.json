@@ -1,0 +1,95 @@
+{
+  "promotions": [
+    {
+      "title": "Notebook Lenovo Ultrafino ideapad S145 i5-1035G1, 8GB 1TB Windows 10 15.6\" Dolby Audio Design Leve e Compacto, Prata",
+      "url": "https://www.americanas.com.br/produto/3161557686?opn=YSMESP&sellerid=02&epar=bp_pl_00_go_gm_jogos_todas_geral_gmv&WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&i=5612cbe46ed24cafb5cae011&o=6079a6adf8e95eac3d8f0d86&gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPHawnQ_XSaKEOzCakJ-NyGscFkvUt8an1CfGPkt6rbsq5x9YGCrQjoaAgjvEALw_wcB",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/413V3QwQ2sL._AC_.jpg",
+      "price": "3.599",
+      "id": 1
+    },
+    {
+      "title": "Pro Evolution Soccer 2021 Season Update - PS4",
+      "url": "https://www.americanas.com.br/produto/2210711513?api=b2wads&chave=b2wads_5fd6fbc050aa82000f56808a_36422941000160_2210711513_4f2020ec-7e29-4984-a3bd-4b45d3480bc9&sellerId=36422941000160&sellerName=B2%20GAMES&pos=1",
+      "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/img/2210711/5/2210711572_1GG.jpg",
+      "price": "169.89",
+      "id": 2
+    },
+    {
+      "title": "Barbeador Elétrico Philips Series 1000 AquaTouch - Seco e Molhado 1 Velocidade",
+      "url": "https://www.magazineluiza.com.br/barbeador-eletrico-philips-series-1000-aquatouch-seco-e-molhado-1-velocidade/p/108580400/pf/pbel/",
+      "imageUrl": "https://a-static.mlcdn.com.br/618x463/barbeador-eletrico-philips-series-1000-aquatouch-seco-e-molhado-1-velocidade/magazineluiza/108580400/a4feabab17347e09eb9e6f9808a66294.jpg",
+      "price": "169.00",
+      "id": 3
+    },
+    {
+      "title": "TV LED 32\" Philco PTV32F10D 2 HDMI USB Frequência 60 Hz",
+      "url": "https://www.buscape.com.br/tv/tv-led-32-philco-ptv32f10d-2-hdmi-usb-frequencia-60-hz?_lc=88&searchterm=Televis%C3%A3o",
+      "imageUrl": "https://i.zst.com.br/thumbs/45/a/2d/1385140914.jpg",
+      "price": "1.058",
+      "id": 4
+    },
+    {
+      "title": "Colchão Casal de Espuma D33 Sleep On Equilibrium 138x188 Até 100kg - Preto",
+      "url": "https://www.gazin.com.br/produto/3907/colchao-casal-de-espuma-d33-sleep-on-equilibrium-138x188-ate-100kg?cor=preto&voltagem=sem-voltagem&seller_id=3",
+      "imageUrl": "https://gazin-images.gazin.com.br/unsafe/640x/filters:format(webp):quality(75)/https://gazin-marketplace.s3.amazonaws.com/midias/imagens/2021/01/colchao-sleep-on-espuma-equilibrium-d33-138x188x15-092101522648.jpg",
+      "price": "583.20",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "userId": 1,
+      "promotionId": 5,
+      "comment": "Excelente colchão na promoção!",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "promotionId": 2,
+      "comment": "Muitas horas de jogo nos finais de semana!Só jogo com o CR7 hehe!",
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "promotionId": 2,
+      "comment": "Melhor mesmo era o Allejo!",
+      "parentId": 1,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "promotionId": 4,
+      "comment": "Por esse preço vou levar, vale muito a pena!",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "HAHAHAHA bons tempos do International Superstar Soccer! ↑ ↑ ↓ ↓ ← → ← → B A",
+      "parentId": 2,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuário 01",
+      "avatarUrl": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairNotTooLong&accessoriesType=Wayfarers&hairColor=BrownDark&facialHairType=BeardMedium&facialHairColor=BrownDark&clotheType=BlazerShirt&eyeType=EyeRoll&eyebrowType=UnibrowNatural&mouthType=Default&skinColor=Black"
+    },
+    {
+      "id": 2,
+      "name": "Usuário 02",
+      "avatarUrl": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairFro&accessoriesType=Kurt&hairColor=Blonde&facialHairType=MoustacheFancy&facialHairColor=BrownDark&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=EyeRoll&eyebrowType=DefaultNatural&mouthType=Tongue&skinColor=Light"
+    },
+    {
+      "id": 3,
+      "name": "Usuário 03",
+      "avatarUrl": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairBigHair&accessoriesType=Prescription01&hairColor=PastelPink&facialHairType=Blank&facialHairColor=Red&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Dizzy&eyebrowType=RaisedExcited&mouthType=Concerned&skinColor=DarkBrown"
+    },
+    {
+      "id": 4,
+      "name": "Usuário 04",
+      "avatarUrl": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight2&accessoriesType=Wayfarers&hairColor=BlondeGolden&facialHairType=Blank&facialHairColor=Red&clotheType=ShirtCrewNeck&clotheColor=PastelRed&eyeType=Hearts&eyebrowType=SadConcernedNatural&mouthType=Concerned&skinColor=DarkBrown"
+    }
+  ]
+}
