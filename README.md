@@ -29,7 +29,7 @@ Este projeto, apresenta algumas modificações em comparação ao original que �
 ## Instalação
 Os passo a seguir, são referentes em como instalar o projeto.
 
-$ git clone https://github.com/Alfredo-Paes/ 
+$ git clone https://github.com/Alfredo-Paes/my_gatry_clone
 
 $ cd  my_gatry_clone
 
