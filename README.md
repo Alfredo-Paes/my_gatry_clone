@@ -12,7 +12,7 @@ Este projeto é um clone do site Gatry, podendo registrar, editar e excluir prom
   - [Contato](#contato)
 
 ## Introdução
-Inicialmente, este projeto realizado, originou-se da playlist do Vinicius Dacal, React para Iniciantes. Na playlist, são apresentados fundamentos do React JS, desenvolvendo um clone do siteb Gatry.
+Inicialmente, este projeto realizado, originou-se da playlist do Vinicius Dacal, React para Iniciantes. Na playlist, são apresentados fundamentos do React JS, desenvolvendo um clone do site Gatry.
 
 Este projeto, apresenta algumas modificações em comparação ao original que é proposto no tutorial. Uma diferença a ser citada, é o uso de Lottie, uma ferramenta em ofertar animações para a aplicação.
 
@@ -24,6 +24,7 @@ Este projeto, apresenta algumas modificações em comparação ao original que �
 * JSON Server
 * Lottie
 * Formik
+* Yup
 
 ## Instalação
 Os passo a seguir, são referentes em como instalar o projeto.
@@ -55,6 +56,8 @@ https://lottiefiles.com/
 https://dev.to/proiacm/lottie-animations-for-react-1c9l
 
 https://formik.org/
+
+https://www.npmjs.com/package/yup
 
 https://getavataaars.com/
 
